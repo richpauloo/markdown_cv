@@ -1,0 +1,38 @@
+---
+#title: "rap-markdown-cover-letter"
+#author: "Rich Pauloo"
+#date: "1/18/2018"
+output: pdf_document
+fontsize: 12pt
+geometry: margin=1in 
+---
+
+# Rich A. Pauloo
+  
+647 D St.  |  Davis, CA 95616  
+rpauloo@ucdavis.edu  |  415-275-4981  
+  
+\rule{0.5\linewidth}{\linethickness}
+  
+January 18. 2018  
+
+Marjannie Akintunde, PhD  
+UC Davis Internship and Career Center (ICC)  
+meakintunde@ucdavis.edu  
+530-752-8342  
+  
+\rule{0.5\linewidth}{\linethickness}
+
+Dear Dr. Akintunde,  
+  
+I am incredibly excited to have the opportunity to visit Google in Mountain View. I am a PhD Candidate in Physical Hydrology, under the supervision of Dr. Graham Fogg at the University of California, Davis. During my graduate career, I have developed an interest in data science and programming and continuously search for ways to immerse myself in data science tools, organizations, and experiences. Visiting Google would be an invaluable opportunity to network with potential employers, meet like minded students, and visit a company whose tools have informed my research (i.e. - GoogleVis, Google Earth) and transformed my life (i.e. - Search, Drive, Gmail, Maps, and more).  
+  
+In addition to my research, I am an Affiliate of the UC Davis Data Science Initative (DSI). Within the DSI, I orgranize a weekly reading group around the statistical programming language R. Last summer, I attended the Swiss Institute of Aquatic Technology in Dubendorf, Switzerland for a one week modeling summer school in R. Later this month, I've secured funding to attend a data science conference in San Diego hosted by RStudio. I find that using data to gain insights into problems is both fun and rewarding, and I am motivated to seek out and make the most of these experiences in my free time.
+  
+My research and my interest in a data science career, are elements of my life that I am proud of and take seriously. I've demonstrated a record of seeking out and participating in events related to programming and data science to feed my curiosity and fascination. If given the opportunity to participate in TREK to Google, I intend to learn as much as I can, to make friends with those I meet, and in short, to not waste an incredible and unique opportunity.
+  
+Thank you for your time and consideration.
+
+Sincerely,  
+  
+Rich A. Pauloo
