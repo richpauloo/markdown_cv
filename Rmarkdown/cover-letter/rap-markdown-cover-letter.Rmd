@@ -9,29 +9,31 @@ geometry: margin=1in
 
 # Rich A. Pauloo
   
-647 D St.  |  Davis, CA 95616  
+740 Miller Drive  |  Davis, CA 95616  
 rpauloo@ucdavis.edu  |  415-275-4981  
   
 \rule{0.5\linewidth}{\linethickness}
   
-January 18. 2018  
+June 4, 2018  
 
-Marjannie Akintunde, PhD  
-UC Davis Internship and Career Center (ICC)  
-meakintunde@ucdavis.edu  
-530-752-8342  
-  
+Amanda Elliott
+State Water Resources Control Board  
+P.O. BOX 100  
+Sacramento, CA 95812-0100  
+(916) 341-5108  
+amanda.elliott@waterboards.ca.gov  
+
 \rule{0.5\linewidth}{\linethickness}
 
-Dear Dr. Akintunde,  
+Dear Ms. Elliott,  
   
-I am incredibly excited to have the opportunity to visit Google in Mountain View. I am a PhD Candidate in Physical Hydrology, under the supervision of Dr. Graham Fogg at the University of California, Davis. During my graduate career, I have developed an interest in data science and programming and continuously search for ways to immerse myself in data science tools, organizations, and experiences. Visiting Google would be an invaluable opportunity to network with potential employers, meet like minded students, and visit a company whose tools have informed my research (i.e. - GoogleVis, Google Earth) and transformed my life (i.e. - Search, Drive, Gmail, Maps, and more).  
-  
-In addition to my research, I am an Affiliate of the UC Davis Data Science Initative (DSI). Within the DSI, I orgranize a weekly reading group around the statistical programming language R. Last summer, I attended the Swiss Institute of Aquatic Technology in Dubendorf, Switzerland for a one week modeling summer school in R. Later this month, I've secured funding to attend a data science conference in San Diego hosted by RStudio. I find that using data to gain insights into problems is both fun and rewarding, and I am motivated to seek out and make the most of these experiences in my free time.
-  
-My research and my interest in a data science career, are elements of my life that I am proud of and take seriously. I've demonstrated a record of seeking out and participating in events related to programming and data science to feed my curiosity and fascination. If given the opportunity to participate in TREK to Google, I intend to learn as much as I can, to make friends with those I meet, and in short, to not waste an incredible and unique opportunity.
-  
-Thank you for your time and consideration.
+I enthusiastically submit to you my application for the JC-111672 - Student Assistant position with the California State Water Resources Control Board. I am a PhD Candidate in Physical Hydrology under the supervision of Dr. Graham Fogg at the University of California, Davis. During my graduate career, I have developed an interest in water, data science and programming. I seek a position where I can use data science and hydrologic domain knowledge to improve the welfare of citizens in the great State of California, where I was born, educated, and where I intend to live and work as a water professional.  
+
+I believe I well qualified for the position, as my research involves meticulous data collection, data mining, scraping websites, querying JSON relational databases, and working with a variety of data structures both on the computer (SQLite) and in the cloud (MySQL). I frequently use ArcGIS, and moreover, employ spatial computing tools in R to automate spatial processing and ensure transparent and reproducible research. Examples of my work can be found on github. Any of my research repositories easily exceed gigabytes of data, scripts, and documentation, and I'm proud of my ability to stay organized and document my workflow in such a way that eliminates technical debt.  
+
+My domain knowledge in California water policy, law, and hydrogeology also prepares me for this role. I developed a sense of the legal and political landscape surrounding water in California, as well as the role the Board plays in permitting and regulating water use in Dr. Virginia Cahill's class on California water law. For the past three years I've immersed myself in California water issues, following the publications and journalism of the PPIC, Maven's Motebook, and the California Water Blog. Over the years, I've attending trainings put on by the DWR and Water Education Foundation, presented my research on groundwater in California at conferences in and out of the state, and even organized a conference with my peers on the implications of the Sustainable Groundwater Management Act.  
+
+Thank you for your consideration.  
 
 Sincerely,  
   

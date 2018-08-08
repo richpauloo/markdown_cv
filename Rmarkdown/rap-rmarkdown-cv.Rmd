@@ -9,7 +9,7 @@ title: "CV"
 author: Rich A. Pauloo
 
 jobtitle: "PhD Candidate, Physical Hydrology, UC Davis"
-address: "647 D St · Davis · CA 95616"
+address: "740 Miller Drive · Davis · CA 95616"
 fontawesome: yes
 email: rpauloo@ucdavis.edu
 github: richpauloo
@@ -53,8 +53,8 @@ urlcolor: blue
 
 *NatureBridge, Yosemite National Park & Golden Gate National Recreation Area:*
 
- > Environmental Science Educator \hfill 2013--2014  
- > Assistant Principal \hfill 2014--2015
+ > Site Manager \hfill 2014--2015  
+ > Environmental Science Educator \hfill 2013--2014
 
 *San Mateo County Office of Education:*
 
@@ -90,6 +90,10 @@ Pauloo, R., G. Zhilin, G.E. Fogg 2017. "Groundwater Salinization Resulting from 
 
 # PRESENTATIONS
 
+**2018. Pauloo, R.** "Data-Driven Prediction of Domestic Well Failure in California, and Forecasting Future Well Failure with Machine Learning Models" CA Water Data Summit. 23 September.  
+
+**2018. Pauloo, R.** "Regional Groundwater Quantity and Quality Models" Stanford University. 24 May.  
+
 **2017. Pauloo, G.E. Fogg, R., Z. Guo, C.V. Henri** "Basin Scale Groundwater Quality Management Modeling: Methods to Upscale the Advection Dispersion Equation." American Geophysical Union. Final Paper Number H51G-1360. New Orleans, LA. 11--15 Dec. 
 
 **2017. Pauloo, R., G.E. Fogg, E. Goharian, J.D. Herman** "How to Maximize Total Water Storage in California." UC Water Annual Retreat. Davis, CA. 21--22 Sept. 
@@ -110,36 +114,39 @@ Pauloo, R., G. Zhilin, G.E. Fogg 2017. "Groundwater Salinization Resulting from 
 
 # ORGANIZATION
 
-**Session Co-Chair, American Geophysical Union, Dec. 2016.** [Integration of Climate, Hydrology, Social Science, and Water Management: Connecting Hydroclimate Models with Stakeholder Need](https://agu.confex.com/agu/fm16/meetingapp.cgi/Session/13694)
+**Session Co-Chair, American Geophysical Union, Dec. 2016.** [Integration of Climate, Hydrology, Social Science, and Water Management: Connecting Hydroclimate Models with Stakeholder Need](https://agu.confex.com/agu/fm16/meetingapp.cgi/Session/13694)  
 
-**Conference Co-Organizer, April 2016.** [Weathering Change: Impact of Climate Change and SGMA on CA Water](https://watershed.ucdavis.edu/news/2016/03/09/april-4-5-weathering-change-impact-climate-change-and-sgma-ca-water-conference)
+**Conference Co-Organizer, April 2016.** [Weathering Change: Impact of Climate Change and SGMA on CA Water](https://watershed.ucdavis.edu/news/2016/03/09/april-4-5-weathering-change-impact-climate-change-and-sgma-ca-water-conference)  
 
 # AWARDS
 
-**2016**  *NSF-GRFP Honorable Mention*, National Science Foundation
+**2018**  *Early Career Researcher*, West Big Data Hub  
 
-**2015**  *IGERT in Climate Change, Water, and Society*, National Science Foundation
+**2016**  *NSF-GRFP Honorable Mention*, National Science Foundation  
 
-# PROFESSIONAL AFFILIATIONS & TRAINING	  
+**2015**  *NSF-IGERT in Climate Change, Water, and Society*, National Science Foundation  
 
-<<<<<<< HEAD
-  - American Geophysical Union
-  - Groundwater Resources Association
-  - Eawag Summer School in Mathmateical Modeling of Environmental Systems. Dubendorf, Switzerland. June, 2017.
-  - Contemporary Groundwater Issues Council. May, 2017.
-=======
-  - Eawag Summer School in Mathmateical Modeling of Environmental Systems. Dubendorf, Switzerland. June, 2017.
-  - American Geophysical Union
->>>>>>> 78addc1a8b17e37f2bc843ab6207b34d5c426487
-  - C2VSim training, San Luis Obsispo, CA. April, 2016.
-  - Drought Tour, California Water Education Foundation, September, 2015. 
-  - Groundwater Tour, California Water Education Foundation, September, 2015. 
-  - Wilderness First Responder (NOLS). 
+# PROFESSIONAL AFFILIATIONS
+
+* American Geophysical Union  
+* Groundwater Resources Association  
+* International Association of Hydrogeologists  
+
+# TRAINING  
+
+* Stanford ICME Summer School in Machine and Deep Learning, 2018.  
+* Software Carpentries Intructor, 2018.  
+* Eawag Summer School in Mathmateical Modeling of Environmental Systems. Dubendorf, Switzerland. June, 2017.  
+* Contemporary Groundwater Issues Council. May, 2017.  
+* C2VSim training, San Luis Obsispo, CA. April, 2016.  
+* Drought Tour, California Water Education Foundation, September, 2015.  
+* Groundwater Tour, California Water Education Foundation, September, 2015.  
+* First Responder (NOLS) - certification valid through June 2019.  
   
 # LANGUAGES
 
-  - Spanish (conversational)
-  - Portuguese (elementary)
+* Spanish (conversational)  
+* Portuguese (elementary)  
 
 # REFERENCES
 
