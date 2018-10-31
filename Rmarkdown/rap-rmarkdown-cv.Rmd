@@ -70,11 +70,31 @@ urlcolor: blue
 
 <!-- > Teach 25+ graduate students in ecology how to use R to interact with data including: data structure, version control, and programming for data manipulation, analysis, and visualization. Built website and made course materials openly available on github. (https://gge-ucd.github.io/wRangling-Ecology/) (https://github.com/gge-ucd/wRangling_Seminar). -->
 
-# PUBLICATIONS
+
+# GRANTS & AWARDS
+
+* **2018**  *Best Innovative Tool Development*, UC Water Annual Meeting  
+
+* **2018**  *CA Water Data Challenge Winner*, 2018 CA Water Data Challenge [[project](https://richpauloo.github.io/flexdash.html)] **($1,500)**  
+
+* **2018**  *Data Visualization & Digital Storytelling Runner Up*, NASA [[project](https://github.com/richpauloo/richpauloo.github.io/blob/master/presentations/pauloo_hyperwall_no_lines.pdf)] **($1,400)**  
+
+* **2018**  *Early Career Data Science Researcher Award*, West Big Data Hub  **($1,000)**  
+
+* **2016**  *NSF-GRFP Honorable Mention*, National Science Foundation  
+
+* **2015**  *NSF-IGERT in Climate Change, Water, and Society*, National Science Foundation **($111,000)**  
+
+
+# PUBLICATIONS IN PROGRESS
 
 ## **Journal Articles**
 
-Pauloo, R., G. Zhilin, G.E. Fogg 2017. "Groundwater Salinization Resulting from Open-to-Closed Basin Conversion in an Agricultural Basin." *Advances in Water Resources* *__not submitted__*
+Pauloo, R., Z. Guo, G.E. Fogg 2019. "Groundwater Salinization Resulting from Open-to-Closed Basin Conversion in an Agricultural Basin." *Advances in Water Resources* *(not yet submitted)*
+
+Pauloo, R., C. Henri, Z. Guo, G.E. Fogg 2019. "Upscaling Regional, 3D, Non-Fickian Solute Transport with 2D Equivalent Models." *Water Resources Research* *(not yet submitted)*
+
+Pauloo, R., A. Escriva-Bou, A. Fencl, H. Guillon 2019. "Domestic Well Vulnerability to Drought in California's Central Valley: Past and Future." *Regional Environmental Change* *(not yet submitted)*
 
 <!-- Steel, A.E., R.A. Peek, R.A. Lusardi, S.M. Yarnell. 2017. "Associating Metrics Of Hydrologic Variability With Benthic Macroinvertebrate Communities In Regulated And Unregulated Snowmelt-Dominated Rivers." *Freshwater Biology* *__in press__*. -->
 
@@ -90,19 +110,25 @@ Pauloo, R., G. Zhilin, G.E. Fogg 2017. "Groundwater Salinization Resulting from 
 
 # PRESENTATIONS
 
-**2018. Pauloo, R.** "Data-Driven Prediction of Domestic Well Failure in California, and Forecasting Future Well Failure with Machine Learning Models" CA Water Data Summit. 23 September.  
+**2018. Pauloo, G.E. Fogg, R., Z. Guo, C.V. Henri** "Upscaling Regional, 3D, Non-Fickian Solute Transport with 2D Equivalent Models." American Geophysical Union. Final Paper Number H43I-2582. Washington, DC. 13 Dec. 
 
-**2018. Pauloo, R.** "Regional Groundwater Quantity and Quality Models" Stanford University. 24 May.  
+**2018, Pauloo, R.** "An Interactive Mapping Interface to the California Online State Well Completion Report Database" UC Water Annual Meeting. Sacramento, CA. 25 Oct.  
 
-**2017. Pauloo, G.E. Fogg, R., Z. Guo, C.V. Henri** "Basin Scale Groundwater Quality Management Modeling: Methods to Upscale the Advection Dispersion Equation." American Geophysical Union. Final Paper Number H51G-1360. New Orleans, LA. 11--15 Dec. 
+**2018, Pauloo, R., A. Escriva-Bou, A. Fencl, H. Guillon** "Domestic Well Vulnerability to Drought in California's Central Valley" California Water Data Challenge Awards Summit. Los Angeles, CA. 18 Oct.  
+
+**2018. Pauloo, R., A. Escriva-Bou, A. Fencl, H. Guillon** "Data-Driven Prediction of Domestic Well Failure in California, and Forecasting Future Well Failure with Machine Learning Models" CA Water Data Summit. Los Angeles, CA. 23 Sept.  
+
+**2018. Pauloo, R.** "Regional Groundwater Quantity and Quality Models" Stanford University. Palo Alto, CA. 24 May.  
+
+**2017. Pauloo, G.E. Fogg, R., Z. Guo, C.V. Henri** "Basin Scale Groundwater Quality Management Modeling: Methods to Upscale the Advection Dispersion Equation." American Geophysical Union. Final Paper Number H51G-1360. New Orleans, LA. 14 Dec. 
 
 **2017. Pauloo, R., G.E. Fogg, E. Goharian, J.D. Herman** "How to Maximize Total Water Storage in California." UC Water Annual Retreat. Davis, CA. 21--22 Sept. 
 
-**2016. Pauloo, R., G.E. Fogg, Z. Guo** "Water Resource Vulnerability to Groundwater Salinization in Closed Basin Aquifers." American Geophysical Union. Final Paper Number H33F-1610. San Francisco, CA. 12--16 Dec. 
+**2016. Pauloo, R., G.E. Fogg, Z. Guo** "Water Resource Vulnerability to Groundwater Salinization in Closed Basin Aquifers." American Geophysical Union. Final Paper Number H33F-1610. San Francisco, CA. 14 Dec. 
 
-**2016. Pauloo, R., G.E. Fogg, Z. Guo** "Investigating Groundwater Sustainability and Water Quality Degredation in California’s Tulare Basin using a Simple Mixing Model." Groundwater Resources Association Annual Meeting. Concord, CA. 28--29 Sept.
+**2016. Pauloo, R., G.E. Fogg, Z. Guo** "Investigating Groundwater Sustainability and Water Quality Degredation in California’s Tulare Basin using a Simple Mixing Model." Groundwater Resources Association Annual Meeting. Concord, CA. 28 Sept.
 
-**2016. Pauloo, R., G.E. Fogg, Z. Guo** "Groundwater Salinization due to Hydraulic Closure in Tulare Basin over long time scales." Toward Sustainible Groundwater in Agriculture. Burlingame, CA. 28--30 June.
+**2016. Pauloo, R., G.E. Fogg, Z. Guo** "Groundwater Salinization due to Hydraulic Closure in Tulare Basin over long time scales." Toward Sustainible Groundwater in Agriculture. Burlingame, CA. 28 June.
 
 **2015. Pauloo, R., P. Marielle** "The Past Present and Future: Long-term climate trends and water management history in California." Water Scarcity in the West: Past Present and Future. Davis, CA. 12--13 April.
 
@@ -112,19 +138,13 @@ Pauloo, R., G. Zhilin, G.E. Fogg 2017. "Groundwater Salinization Resulting from 
 
 <!-- > https://aggiebrickyard.github.io -->
 
-# ORGANIZATION
+# ORGANIZATION & LEADERSHIP
+
+**Team Lead, California Water Data Challenge, May - Oct. 2018** [Domestic Well Vulnerability to Drought in California's Central Valley](https://richpauloo.github.io/flexdash.html)  
 
 **Session Co-Chair, American Geophysical Union, Dec. 2016.** [Integration of Climate, Hydrology, Social Science, and Water Management: Connecting Hydroclimate Models with Stakeholder Need](https://agu.confex.com/agu/fm16/meetingapp.cgi/Session/13694)  
 
 **Conference Co-Organizer, April 2016.** [Weathering Change: Impact of Climate Change and SGMA on CA Water](https://watershed.ucdavis.edu/news/2016/03/09/april-4-5-weathering-change-impact-climate-change-and-sgma-ca-water-conference)  
-
-# AWARDS
-
-**2018**  *Early Career Researcher*, West Big Data Hub  
-
-**2016**  *NSF-GRFP Honorable Mention*, National Science Foundation  
-
-**2015**  *NSF-IGERT in Climate Change, Water, and Society*, National Science Foundation  
 
 # PROFESSIONAL AFFILIATIONS
 
@@ -134,14 +154,27 @@ Pauloo, R., G. Zhilin, G.E. Fogg 2017. "Groundwater Salinization Resulting from 
 
 # TRAINING  
 
+#### ANALYSIS & SOFTWARE
+
 * Stanford ICME Summer School in Machine and Deep Learning, 2018.  
 * Software Carpentries Intructor, 2018.  
 * Eawag Summer School in Mathmateical Modeling of Environmental Systems. Dubendorf, Switzerland. June, 2017.  
+* C2VSim training, San Luis Obsispo, CA. April, 2016.  
+
+#### WATER
+
 * Contemporary Groundwater Issues Council. May, 2017.  
 * C2VSim training, San Luis Obsispo, CA. April, 2016.  
 * Drought Tour, California Water Education Foundation, September, 2015.  
 * Groundwater Tour, California Water Education Foundation, September, 2015.  
+
+#### OTHER
+
 * First Responder (NOLS) - certification valid through June 2019.  
+
+# COMMUNICATION & OUTREACH
+
+* [Personal webpage](https://richpauloo.github.io)  
   
 # LANGUAGES
 
