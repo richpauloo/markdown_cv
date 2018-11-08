@@ -34,8 +34,6 @@ urlcolor: blue
 # EMPLOYMENT
 
 *University of California, Davis:*
-
- > Graduate Student Researcher \hfill 2015--present
  
  > [NSF IGERT](http://www.igert.org/) Fellow in [Climate Change, Water, and Society](http://ccwas.ucdavis.edu/) \hfill 2015--2017
  
@@ -45,7 +43,7 @@ urlcolor: blue
  
  > [UC Water](http://ucwater.org/) Graduate Researcher \hfill 2017--present
  
- > Graduate Student Assembly Representative \hfill 2016--present
+ > Graduate Student Assembly Representative \hfill 2016--2018  
  
 *National Geographic Student Expeditions:*
 
@@ -72,6 +70,8 @@ urlcolor: blue
 
 
 # GRANTS & AWARDS
+
+* **2018**  *Ken Tanji Service Award*, UC Davis **($500)**  
 
 * **2018**  *Best Innovative Tool Development*, UC Water Annual Meeting  
 
