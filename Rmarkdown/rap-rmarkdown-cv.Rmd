@@ -28,20 +28,22 @@ urlcolor: blue
 
 # EDUCATION
 
-*University of California, Davis*, Ph.D. candidate Physical Hydrology \hfill expected 2020  
-*University of California, Berkeley*, B.S. Biology & minor in Conflict Resolution \hfill 2011  
+**University of California, Davis**, *Ph.D. Hydrogeophysics* \hfill (March 2020)  
+**University of California, Berkeley**, *B.S. Biology & minor in Conflict Resolution* \hfill (2011)  
 
 # EMPLOYMENT
 
 *University of California, Davis:*
  
- > [NSF IGERT](http://www.igert.org/) Fellow in [Climate Change, Water, and Society](http://ccwas.ucdavis.edu/) \hfill 2015--2017
+ > [National Science Foundation](http://www.igert.org/) Fellow in [Climate Change, Water, and Society](http://ccwas.ucdavis.edu/) \hfill 2015--2017
  
- > [U.S./China Clean Energy Research Center](https://cerc-wet.berkeley.edu/) Researcher \hfill 2015--present
+ > Researcher for [U.S./China Clean Energy Research Center](https://cerc-wet.berkeley.edu/) \hfill 2015--present
  
- > [Data Science Initative](http://dsi.ucdavis.edu/) Affiliate \hfill 2017--present
+ > Data Science Consultant at the [Data Science Initative](http://dsi.ucdavis.edu/) \hfill 2017--present
  
- > [UC Water](http://ucwater.org/) Graduate Researcher \hfill 2017--present
+ > Data Engineer & Developer for [UC Water](http://ucwater.org/) \hfill 2017--present
+ 
+ > Hydrologic Sciences Graduate Group [Webmaster](https://www.hsgg.ucdavis.edu/) \hfill 2017--present
  
  > Graduate Student Assembly Representative \hfill 2016--2018  
  
@@ -71,19 +73,19 @@ urlcolor: blue
 
 # GRANTS & AWARDS
 
-* **2018**  *Ken Tanji Service Award*, UC Davis **($500)**  
+* **($500)** *Ken Tanji Service Award*, UC Davis \hfill 2018  
 
-* **2018**  *Best Innovative Tool Development*, UC Water Annual Meeting  
+* *Best Innovative Tool Development*, UC Water Annual Meeting \hfill 2018  
 
-* **2018**  *CA Water Data Challenge Winner*, 2018 CA Water Data Challenge [[project](https://richpauloo.github.io/flexdash.html)] **($1,500)**  
+* **($1,500)** *CA Water Data Challenge Winner*, 2018 CA Water Data Challenge [[project](https://richpauloo.github.io/flexdash.html)] \hfill 2018  
 
-* **2018**  *Data Visualization & Digital Storytelling Runner Up*, NASA [[project](https://github.com/richpauloo/richpauloo.github.io/blob/master/presentations/pauloo_hyperwall_no_lines.pdf)] **($1,400)**  
+* **($1,400)** *Data Visualization & Digital Storytelling Runner Up*, NASA [[project](https://github.com/richpauloo/richpauloo.github.io/blob/master/presentations/pauloo_hyperwall_no_lines.pdf)] \hfill 2018  
 
-* **2018**  *Early Career Data Science Researcher Award*, West Big Data Hub  **($1,000)**  
+* **($1,000)** *Early Career Data Science Researcher Award*, West Big Data Hub \hfill 2018  
 
-* **2016**  *NSF-GRFP Honorable Mention*, National Science Foundation  
+* *NSF-GRFP Honorable Mention*, National Science Foundation \hfill 2016  
 
-* **2015**  *NSF-IGERT in Climate Change, Water, and Society*, National Science Foundation **($111,000)**  
+* **($111,000)** *NSF-IGERT in Climate Change, Water, and Society*, National Science Foundation \hfill 2015  
 
 
 # PUBLICATIONS IN PROGRESS
@@ -112,7 +114,7 @@ Pauloo, R., A. Escriva-Bou, A. Fencl, H. Guillon 2019. "Domestic Well Vulnerabil
 
 **2018. Pauloo, G.E. Fogg, R., Z. Guo, C.V. Henri** "Upscaling Regional, 3D, Non-Fickian Solute Transport with 2D Equivalent Models." American Geophysical Union. Final Paper Number H43I-2582. Washington, DC. 13 Dec. 
 
-**2018, Pauloo, R.** "An Interactive Mapping Interface to the California Online State Well Completion Report Database" UC Water Annual Meeting. Sacramento, CA. 25 Oct.  
+**2018, Pauloo, R.** "An Interactive Mapping Interface to the California Online State Well Completion Report Database" UC Water Annual Meeting. Sacramento, CA. 25 Oct. [[view presentation]](https://shiny.lawr.ucdavis.edu/shiny/oswcrd/)   
 
 **2018, Pauloo, R., A. Escriva-Bou, A. Fencl, H. Guillon** "Domestic Well Vulnerability to Drought in California's Central Valley" California Water Data Challenge Awards Summit. Los Angeles, CA. 18 Oct.  
 
@@ -120,7 +122,7 @@ Pauloo, R., A. Escriva-Bou, A. Fencl, H. Guillon 2019. "Domestic Well Vulnerabil
 
 **2018. Pauloo, R.** "Regional Groundwater Quantity and Quality Models" Stanford University. Palo Alto, CA. 24 May.  
 
-**2017. Pauloo, G.E. Fogg, R., Z. Guo, C.V. Henri** "Basin Scale Groundwater Quality Management Modeling: Methods to Upscale the Advection Dispersion Equation." American Geophysical Union. Final Paper Number H51G-1360. New Orleans, LA. 14 Dec. 
+**2017. Pauloo, G.E. Fogg, R., Z. Guo, C.V. Henri** "Basin Scale Groundwater Quality Management Modeling: Methods to Upscale the Advection Dispersion Equation." American Geophysical Union. Final Paper Number H51G-1360. New Orleans, LA. 14 Dec. [[view poster]](https://github.com/richpauloo/richpauloo.github.io/blob/master/presentations/agu_pauloo_2017_small.pdf)  
 
 **2017. Pauloo, R., G.E. Fogg, E. Goharian, J.D. Herman** "How to Maximize Total Water Storage in California." UC Water Annual Retreat. Davis, CA. 21--22 Sept. 
 
@@ -130,7 +132,7 @@ Pauloo, R., A. Escriva-Bou, A. Fencl, H. Guillon 2019. "Domestic Well Vulnerabil
 
 **2016. Pauloo, R., G.E. Fogg, Z. Guo** "Groundwater Salinization due to Hydraulic Closure in Tulare Basin over long time scales." Toward Sustainible Groundwater in Agriculture. Burlingame, CA. 28 June.
 
-**2015. Pauloo, R., P. Marielle** "The Past Present and Future: Long-term climate trends and water management history in California." Water Scarcity in the West: Past Present and Future. Davis, CA. 12--13 April.
+**2015. Pauloo, R., P. Marielle** "The Past Present and Future: Long-term climate trends and water management history in California." Water Scarcity in the West: Past Present and Future. Davis, CA. 12--13 April. [[view poster]](https://github.com/richpauloo/richpauloo.github.io/blob/master/presentations/2017_04_18_weathering_change_poster.pdf)  
 
 <!-- # PUBLIC MEDIA -->
 
@@ -156,15 +158,15 @@ Pauloo, R., A. Escriva-Bou, A. Fencl, H. Guillon 2019. "Domestic Well Vulnerabil
 
 #### ANALYSIS & SOFTWARE
 
-* Stanford ICME Summer School in Machine and Deep Learning, 2018.  
-* Software Carpentries Intructor, 2018.  
-* Eawag Summer School in Mathmateical Modeling of Environmental Systems. Dubendorf, Switzerland. June, 2017.  
-* C2VSim training, San Luis Obsispo, CA. April, 2016.  
+* Stanford ICME Summer School in Machine and Deep Learning. Palo Alto, CA. 2018.  
+* Software Carpentries Intructor. Davis, CA. 2018.  
+* conf::RStudio. San Diego, CA. 2018.  
+* Eawag Summer School in Mathmateical Modeling of Environmental Systems. Dubendorf, Switzerland. 2017.  
 
 #### WATER
 
 * Contemporary Groundwater Issues Council. May, 2017.  
-* C2VSim training, San Luis Obsispo, CA. April, 2016.  
+* C2VSim training. San Luis Obsispo, CA. April, 2016.  
 * Drought Tour, California Water Education Foundation, September, 2015.  
 * Groundwater Tour, California Water Education Foundation, September, 2015.  
 
@@ -174,7 +176,8 @@ Pauloo, R., A. Escriva-Bou, A. Fencl, H. Guillon 2019. "Domestic Well Vulnerabil
 
 # COMMUNICATION & OUTREACH
 
-* [Personal webpage](https://richpauloo.github.io)  
+* [*various topics*](https://richpauloo.github.io), Personal Blog   
+* [*Eastern San Joaquin Valley and other CA drinking water supplies at risk in the next drought*](https://californiawaterblog.com/2018/11/12/domestic-well-vulnerability-to-drought-in-californias-central-valley/), California Water Blog  
   
 # LANGUAGES
 
