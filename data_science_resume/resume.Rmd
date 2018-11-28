@@ -67,7 +67,10 @@ r2d3(data = c(), d3_version = 4, script = "voronoi.js", width = '100%', height =
 * Data Engineer & Developer for [UC Water](http://ucwater.org/)  
     + [Real Time Aquifer Monitoring](http://ucwater.org/gw_obs/): End-to-end data extraction-transformation-visualization pipeline scraping monitoring well data sent via telemetry. Includes automated report generation and distribution.  
     + [OSWCR Spatial Database Query Tool](http://ucwater.org/oswcr/): Spatial database that takes a user defined shapefile and returns the subset of points within that shapefile.    
-    + [Abstr](https://richpauloo.shinyapps.io/abstr/): Interactively swipe through 20,000+ scientific abstracts from the 2017 American Geophysical Union Fall Meeting.     
+
+    
+* Developer Hobbyist  
+    + [Abstr](https://richpauloo.shinyapps.io/abstr/): Interactively swipe through 20,000+ scientific abstracts from the 2017 American Geophysical Union Fall Meeting.    
     + [Groundwater Quality Data Explorer](https://richpauloo.shinyapps.io/tds_leaflet/): Interactive map of multiple groundwater quality databases.    
     + [Word Cloud Generator](https://richpauloo.shinyapps.io/word_cloud_app/): Enter a `.txt` file and this app returns a word cloud of the most frequently-used non-stop-words.   
 
