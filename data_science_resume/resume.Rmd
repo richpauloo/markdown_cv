@@ -127,7 +127,7 @@ knitr::include_graphics("wc.png")
 
 <ul>
   <li><p class="alignleft">**($500)** *Ken Tanji Service Award*, UC Davis</p><p class="alignright">2018</p></li><br>
-  <li><p class="alignleft">*Best Innovative Tool Development*, UC Water Annual Meeting  [[tool]](https://shiny.lawr.ucdavis.edu/shiny/oswcrd/)</p><p class="alignright">2018</p></li><br>
+  <li><p class="alignleft">*Best Innovative Tool Development*, UC Water Annual Meeting  [[tool]](http://ucwater.org/oswcr/)</p><p class="alignright">2018</p></li><br>
   <li><p class="alignleft"> **($1,500)** *CA Water Data Challenge Winner*, 2018 CA Water Data Challenge [[project](https://richpauloo.github.io/flexdash.html)]</p><p class="alignright">2018</p></li><br>
   <li><p class="alignleft">**($1,400)** *NASA Data Visualization Competition Runner Up* [[project](https://github.com/richpauloo/richpauloo.github.io/blob/master/presentations/pauloo_hyperwall_no_lines.pdf)]</p><p class="alignright">2018</p></li><br>
   <li><p class="alignleft">**($1,000)** *Early Career Data Science Researcher Award*, West Big Data Hub</p><p class="alignright">2018</p></li><br>
