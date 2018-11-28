@@ -6,30 +6,30 @@ output:
     highlight: tango
 ---
 
-<!-- # ```{r setup, include=FALSE} -->
-<!-- # htmltools::tagList(rmarkdown::html_dependency_font_awesome()) -->
-<!-- # ``` -->
+```{r setup, include=FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+
 
 <center><h1><b>RICH A. PAULOO</b></h1></center>
+***  
+<center>
+  <i class="fa fa-globe" aria-hidden="true"></i> [richpauloo.github.io](https://richpauloo.github.io/) |
+  <i class="fa fa-github" aria-hidden="true"></i> [richpauloo](https://github.com/richpauloo) |
+  <i class="fa fa-envelope" aria-hidden="true"></i> rpauloo@ucdavis.edu
+</center>
+
+<!-- font awesome hack to make doc < 2MB in size -->
 <!-- <center> -->
-<!--   <i class="fa fa-heart" aria-hidden="true"></i> [richpauloo.github.io](https://richpauloo.github.io/) | -->
-<!--   <i class="fa fa-coffee" aria-hidden="true"></i> [richpauloo](https://github.com/richpauloo) | -->
-<!--   <i class="fa fa-envelope" aria-hidden="true"></i> rpauloo@ucdavis.edu | -->
-<!--   <i class="fa fa-home" aria-hidden="true"></i> 740 Miller Drive · Davis, CA 95616 -->
+<!--   <img src = "web.png" height = 15, width = 15> [richpauloo.github.io](https://richpauloo.github.io/) | -->
+<!--   <img src = "git.png" height = 15, width = 15> [richpauloo](https://github.com/richpauloo) | -->
+<!--   <img src = "mail.png" height = 15, width = 15> rpauloo@ucdavis.edu | -->
+<!--   <img src = "home.png" height = 15, width = 15> 740 Miller Drive � Davis, CA 95616 -->
 <!-- </center> -->
 
 ***  
-<!-- font awesome hack to make doc < 2MB in size -->
-<center> 
-  <img src = "git.png" height = 15, width = 15> [richpauloo.github.io](https://richpauloo.github.io/) |
-  <img src = "web.png" height = 15, width = 15> [richpauloo](https://github.com/richpauloo) |
-  <img src = "mail.png" height = 15, width = 15> rpauloo@ucdavis.edu |
-  <img src = "home.png" height = 15, width = 15> 740 Miller Drive · Davis, CA 95616
-</center>
 
-***  
-
-```{r, echo = FALSE}
+```{r, echo = FALSE, warning=FALSE, error=FALSE, message=FALSE}
 library(r2d3)
 r2d3(data = c(), d3_version = 4, script = "voronoi.js", width = '100%', height = 100)
 ```
@@ -38,10 +38,17 @@ r2d3(data = c(), d3_version = 4, script = "voronoi.js", width = '100%', height =
 
 **Hydrogeophysics PhD (March 2020) & Data Scientist** with demonstrated success in two data science competitions hosted by NASA and the West Big Data Hub. Possess 3+ years of experience in scripting non-routine, quantitative analysis of geospatial, tabular, natural language, and timeseries data. Highly curious and creative thinker skilled in end-to-end research design, from data gathering and processing, to statistics, machine learning, data visualization, and communication. Possess strong interpersonal, presentation, writing, and oratory skills. Able to grasp new concepts and ideas quickly. Motivated by learning new skills and making a difference in the world.  
 
+***
+
+## EDUCATION
+
+**University of California, Davis**, *Ph.D. Hydrogeophysics* \hfill (March 2020)  
+**University of California, Berkeley**, *B.S. Biology & minor in Conflict Resolution* \hfill (2011)  
+
 
 ***  
 
-## EXPERIENCE 
+## DATA SCIENCE EXPERIENCE 
 
 <div id="textbox">
   <p class="alignleft"><b>Freelance Data Scientist</b></p>
@@ -53,9 +60,14 @@ r2d3(data = c(), d3_version = 4, script = "voronoi.js", width = '100%', height =
 
 * Winner, [California Water Data Challenge](http://waterchallenge.data.ca.gov/) (**$1,500 Prize**)   [[view project]](https://richpauloo.github.io/flexdash.html) 
 
-* Runner-Up, [NASA Data Visualization Competition](https://education.agu.org/grants/data-visualization-storytelling-competition/award-information/past-winners/) (**$1,000 Prize**)   [[view slides]](https://docs.google.com/presentation/d/1S7R3jKaEuxHq0A5ChdtH-azmBMsICpn702QH152Zkrc/edit?usp=sharing) 
+* Runner-Up, [NASA Data Visualization Competition](https://education.agu.org/grants/data-visualization-storytelling-competition/award-information/past-winners/) (**$1,400 Prize**)   [[view slides]](https://docs.google.com/presentation/d/1S7R3jKaEuxHq0A5ChdtH-azmBMsICpn702QH152Zkrc/edit?usp=sharing) 
 
-* Developer [[1. Abstr]](https://richpauloo.shinyapps.io/abstr/) //  [[2. Groundwater Observatory]](https://richpauloo.shinyapps.io/gw_observatory) // [[3. OSWCR Tool]](https://shiny.lawr.ucdavis.edu/shiny/oswcrd/)  
+* Data Engineer & Developer for [UC Water](http://ucwater.org/)  
+    + [Real Time Aquifer Monitoring](http://ucwater.org/gw_obs/): End-to-end data extraction-transformation-visualization pipeline scraping monitoring well data sent via telemetry. Includes automated report generation and distribution.  
+    + [OSWCR Spatial Database Query Tool](http://ucwater.org/oswcr/): Spatial database that takes a user defined shapefile and returns the subset of points within that shapefile.    
+    + [Abstr](https://richpauloo.shinyapps.io/abstr/): Interactively swipe through 20,000+ scientific abstracts from the 2017 American Geophysical Union Fall Meeting.     
+    + [Groundwater Quality Data Explorer](https://richpauloo.shinyapps.io/tds_leaflet/): Interactive map of multiple groundwater quality databases.    
+    + [Word Cloud Generator](https://richpauloo.shinyapps.io/word_cloud_app/): Enter a `.txt` file and this app returns a word cloud of the most frequently-used non-stop-words.   
 
 * Data Science Blogger (**> 1.2k monthly users**) [[view blog]](https://richpauloo.github.io/)
 
@@ -79,14 +91,6 @@ knitr::include_graphics("wc.png")
 
 ***
 
-
-## EDUCATION
-
-**University of California, Davis**, *Ph.D. Hydrogeophysics* \hfill (March 2020)  
-**University of California, Berkeley**, *B.S. Biology & minor in Conflict Resolution* \hfill (2011)  
-
-***
-
 ## EMPLOYMENT
 
 **University of California, Davis**
@@ -96,7 +100,7 @@ knitr::include_graphics("wc.png")
   <li><p class="alignleft">Researcher for [U.S./China Clean Energy Research Center](https://cerc-wet.berkeley.edu/)</p><p class="alignright">2015--present</p></li><br>
   <li><p class="alignleft">Data Engineer & Developer for [UC Water](http://ucwater.org/)</p><p class="alignright">2017--present</p></li><br>
   <li><p class="alignleft">Data Science Consultant at the [UC Davis Data Science Initiative](http://dsi.ucdavis.edu/)</p><p class="alignright">2018--present</p></li><br>
-  <li><p class="alignleft">Hydrologic Sciences Graduate Group [Webmaster](https://hsgg.ucdavis.edu)</p><p class="alignright">2017--present</p></li><br>
+  <li><p class="alignleft">Hydrologic Sciences Graduate Group [Developer/Webmaster](https://hsgg.ucdavis.edu)</p><p class="alignright">2017--present</p></li><br>
   <li><p class="alignleft">Graduate Student Assembly Representative</p><p class="alignright">2016--2018</p></li>
 </ul>
   
@@ -138,11 +142,11 @@ knitr::include_graphics("wc.png")
 
 <!-- ### **Journal Articles** -->
 
-Pauloo, R., Z. Guo, G.E. Fogg 2019. "Groundwater Salinization Resulting from Open-to-Closed Basin Conversion in an Agricultural Basin." *Advances in Water Resources* *(not yet submitted)*
-
 Pauloo, R., C. Henri, Z. Guo, G.E. Fogg 2019. "Upscaling Regional, 3D, Non-Fickian Solute Transport with 2D Equivalent Models." *Water Resources Research* *(not yet submitted)*
 
-Pauloo, R., A. Escriva-Bou, A. Fencl, H. Guillon 2019. "Domestic Well Vulnerability to Drought in California's Central Valley: Past and Future." *Regional Environmental Change* *(not yet submitted)*
+Pauloo, R., A. Escriva-Bou, A. Fencl, H. Guillon 2019. "Predicting Domestic Well Failure and Drought Vulnerability in California's Central Valley." *Regional Environmental Change* *(not yet submitted)*
+
+Pauloo, R., Z. Guo, G.E. Fogg 2019. "Groundwater Salinization Resulting from Open-to-Closed Basin Conversion in an Agricultural Basin." *Advances in Water Resources* *(not yet submitted)*
 
 *** 
 
@@ -164,7 +168,7 @@ Pauloo, R., A. Escriva-Bou, A. Fencl, H. Guillon 2019. "Domestic Well Vulnerabil
 
 **2016. Pauloo, R., G.E. Fogg, Z. Guo** "Water Resource Vulnerability to Groundwater Salinization in Closed Basin Aquifers." American Geophysical Union. Final Paper Number H33F-1610. San Francisco, CA. 14 Dec. 
 
-**2016. Pauloo, R., G.E. Fogg, Z. Guo** "Investigating Groundwater Sustainability and Water Quality Degradation in California’s Tulare Basin using a Simple Mixing Model." Groundwater Resources Association Annual Meeting. Concord, CA. 28 Sept.
+**2016. Pauloo, R., G.E. Fogg, Z. Guo** "Investigating Groundwater Sustainability and Water Quality Degradation in California's Tulare Basin using a Simple Mixing Model." Groundwater Resources Association Annual Meeting. Concord, CA. 28 Sept.
 
 **2016. Pauloo, R., G.E. Fogg, Z. Guo** "Groundwater Salinization due to Hydraulic Closure in Tulare Basin over long time scales." Toward Sustainable Groundwater in Agriculture. Burlingame, CA. 28 June.
 
@@ -188,7 +192,7 @@ Pauloo, R., A. Escriva-Bou, A. Fencl, H. Guillon 2019. "Domestic Well Vulnerabil
 ##### ANALYSIS
 
 <ul>
-  <li><p class="alignleft">Stanford ICME Summer School in Machine and Deep Learning. Palo Alto, CA.</p><p class="alignright">2018</p></li><br>
+  <li><p class="alignleft">Stanford ICME Summer School in Machine Learning and Deep Learning. Palo Alto, CA.</p><p class="alignright">2018</p></li><br>
   <li><p class="alignleft">Software Carpentries Instructor Training. Davis, CA.</p><p class="alignright">2018</p></li><br>
   <li><p class="alignleft">conf::RStudio. San Diego, CA.</p><p class="alignright">2018</p></li><br>
   <li><p class="alignleft">Eawag Summer School in Mathematical Modeling of Environmental Systems. Dubendorf, Switzerland.</p><p class="alignright">2017</p></li><br>
@@ -212,7 +216,7 @@ Pauloo, R., A. Escriva-Bou, A. Fencl, H. Guillon 2019. "Domestic Well Vulnerabil
 
 ## LANGUAGES
 
-* Spanish (conversational)  
+* Spanish (elementary)  
 * Portuguese (elementary)  
 
 *** 
@@ -224,15 +228,25 @@ Available upon request
 ***  
 <!-- font awesome hack to make doc < 2MB in size -->
 
+<!-- <center> -->
+<!-- <h5>Made with <img src = "heart.png" height = 15, width = 15> &  <img src = "coffee.png" height = 15, width = 15>  by Rich A. Pauloo</h5> -->
+<!-- </center> -->
+
 <center>
-<h5>Made with <img src = "heart.png" height = 15, width = 15> &  <img src = "coffee.png" height = 15, width = 15>  by Rich A. Pauloo</h5>
+<h5>Made with <i class="fa fa-heart" aria-hidden="true"></i> & <i class="fa fa-coffee" aria-hidden="true"></i> by Rich A. Pauloo</h5>
 </center>
 
-<center> 
-  <img src = "git.png" height = 15, width = 15> [richpauloo.github.io](https://richpauloo.github.io/) |
-  <img src = "web.png" height = 15, width = 15> [richpauloo](https://github.com/richpauloo) |
-  <img src = "mail.png" height = 15, width = 15> rpauloo@ucdavis.edu |
-  <img src = "home.png" height = 15, width = 15> 740 Miller Drive · Davis, CA 95616
+<!-- <center> -->
+<!--   <img src = "web.png" height = 15, width = 15> [richpauloo.github.io](https://richpauloo.github.io/) | -->
+<!--   <img src = "git.png" height = 15, width = 15> [richpauloo](https://github.com/richpauloo) | -->
+<!--   <img src = "mail.png" height = 15, width = 15> rpauloo@ucdavis.edu | -->
+<!--   <img src = "home.png" height = 15, width = 15> 740 Miller Drive � Davis, CA 95616 -->
+<!-- </center> -->
+
+<center>
+  <i class="fa fa-globe" aria-hidden="true"></i> [richpauloo.github.io](https://richpauloo.github.io/) |
+  <i class="fa fa-github" aria-hidden="true"></i> [richpauloo](https://github.com/richpauloo) |
+  <i class="fa fa-envelope" aria-hidden="true"></i> rpauloo@ucdavis.edu
 </center>
 
 <br>
