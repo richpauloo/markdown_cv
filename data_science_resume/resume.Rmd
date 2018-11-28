@@ -58,9 +58,11 @@ r2d3(data = c(), d3_version = 4, script = "voronoi.js", width = '100%', height =
 
 <!-- **Freelance Data Scientist**  \hfill 2017-present -->
 
-* Winner, [California Water Data Challenge](http://waterchallenge.data.ca.gov/) (**$1,500 Prize**)   [[view project]](https://richpauloo.github.io/flexdash.html) 
+* Winner, [California Water Data Challenge](http://waterchallenge.data.ca.gov/) (**$1,500 Prize**)   [[VIEW PROJECT]](https://richpauloo.github.io/flexdash.html)  
+    + Built spatial, statistical, and machine learning models to predict domestic well failure in California during the 2012-2016 drought, and assessed vulnerability to simulated future drought scenarios.  
 
-* Runner-Up, [NASA Data Visualization Competition](https://education.agu.org/grants/data-visualization-storytelling-competition/award-information/past-winners/) (**$1,400 Prize**)   [[view slides]](https://docs.google.com/presentation/d/1S7R3jKaEuxHq0A5ChdtH-azmBMsICpn702QH152Zkrc/edit?usp=sharing) 
+* Runner-Up, [NASA Data Visualization Competition](https://education.agu.org/grants/data-visualization-storytelling-competition/award-information/past-winners/) (**$1,400 Prize**)   [[VIEW SLIDES]](https://docs.google.com/presentation/d/1S7R3jKaEuxHq0A5ChdtH-azmBMsICpn702QH152Zkrc/edit?usp=sharing)  
+    + Artistic and concise communication and visualization of big geospatial timeseries data.  
 
 * Data Engineer & Developer for [UC Water](http://ucwater.org/)  
     + [Real Time Aquifer Monitoring](http://ucwater.org/gw_obs/): End-to-end data extraction-transformation-visualization pipeline scraping monitoring well data sent via telemetry. Includes automated report generation and distribution.  
@@ -69,7 +71,8 @@ r2d3(data = c(), d3_version = 4, script = "voronoi.js", width = '100%', height =
     + [Groundwater Quality Data Explorer](https://richpauloo.shinyapps.io/tds_leaflet/): Interactive map of multiple groundwater quality databases.    
     + [Word Cloud Generator](https://richpauloo.shinyapps.io/word_cloud_app/): Enter a `.txt` file and this app returns a word cloud of the most frequently-used non-stop-words.   
 
-* Data Science Blogger (**> 1.2k monthly users**) [[view blog]](https://richpauloo.github.io/)
+* Data Science Blogger (**> 1.2k monthly users**) [[VIEW BLOG]](https://richpauloo.github.io/)  
+    + Topics range from [statistics in R](https://richpauloo.github.io/2018-02-03-Tidy-Chi-Squared-stats-in-infer/), to [predicting fatal landslides worldwide with machine learning](https://richpauloo.github.io/landslides.html), to [data science software installation guides](https://richpauloo.github.io/2018-05-16-Installing-the-R-kernel-in-Jupyter-Lab/)
 
 ***  
 
