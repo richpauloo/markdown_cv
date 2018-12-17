@@ -1,0 +1,76 @@
+## ORGANIZATION 
+
+**Session Co-Chair, American Geophysical Union, Dec. 2016.** [Integration of Climate, Hydrology, Social Science, and Water Management: Connecting Hydroclimate Models with Stakeholder Need](https://agu.confex.com/agu/fm16/meetingapp.cgi/Session/13694)  
+
+**Conference Co-Organizer, April 2016.** [Weathering Change: Impact of Climate Change and SGMA on CA Water](https://watershed.ucdavis.edu/news/2016/03/09/april-4-5-weathering-change-impact-climate-change-and-sgma-ca-water-conference)  
+
+***  
+
+## TRAINING  
+
+##### ANALYSIS
+
+<ul>
+  <li><p class="alignleft">Stanford ICME Summer School in Machine Learning and Deep Learning. Palo Alto, CA.</p><p class="alignright">2018</p></li><br>
+  <li><p class="alignleft">Software Carpentries Instructor Training. Davis, CA.</p><p class="alignright">2018</p></li><br>
+  <li><p class="alignleft">conf::RStudio. San Diego, CA.</p><p class="alignright">2018</p></li><br>
+  <li><p class="alignleft">Eawag Summer School in Mathematical Modeling of Environmental Systems. Dubendorf, Switzerland.</p><p class="alignright">2017</p></li><br>
+  <li><p class="alignleft">C2VSim groundwater modeling training. San Luis Obispo, CA.</p><p class="alignright">2016</p></li><br>
+</ul>
+
+
+
+##### OTHER
+
+* First Responder - certification through NOLS valid through June 2019.  
+
+***  
+
+
+***
+
+
+## QUANTITATIVE ANALYSIS & COMMUNICATION 
+
+<!-- <div id="textbox"> -->
+<!--   <p class="alignleft"><b>Freelance Data Scientist</b></p> -->
+<!--   <p class="alignright">2017-present</p> -->
+<!-- </div> -->
+<!-- <br> -->
+
+<!-- **Freelance Data Scientist**  \hfill 2017-present -->
+
+* Winner, [California Water Data Challenge](http://waterchallenge.data.ca.gov/) (**$1,500 Prize**)   [[VIEW PROJECT]](https://richpauloo.github.io/flexdash.html)  
+    + Statewide data science competition.   
+
+* Runner-Up, [NASA Data Visualization Competition](https://education.agu.org/grants/data-visualization-storytelling-competition/award-information/past-winners/) (**$1,400 Prize**)   [[VIEW SLIDES]](https://docs.google.com/presentation/d/1S7R3jKaEuxHq0A5ChdtH-azmBMsICpn702QH152Zkrc/edit?usp=sharing)  
+    + Artistic and concise communication and visualization of big geospatial timeseries data.  
+
+* Data Engineer & Developer for [UC Water](http://ucwater.org/)  
+    + [Spatial Database Query Tool for California Well Completion Reports](http://ucwater.org/oswcr/): Spatial database that takes a user defined shapefile and returns the subset of points within that shapefile.    
+    + [Real Time Aquifer Monitoring](http://ucwater.org/gw_obs/): End-to-end data extraction-transformation-visualization pipeline scraping monitoring well data sent via telemetry. Includes automated report generation and distribution.  
+
+    
+* Developer Hobbyist  
+    + [Groundwater Quality Data Explorer](https://richpauloo.shinyapps.io/tds_leaflet/): Interactive map of multiple groundwater quality databases.    
+    + [Abstr](https://richpauloo.shinyapps.io/abstr/): Interactively swipe through 20,000+ scientific abstracts from the 2017 American Geophysical Union Fall Meeting.  
+    + [Word Cloud Generator](https://richpauloo.shinyapps.io/word_cloud_app/): Enter a `.txt` file and this app returns a word cloud of the most frequently-used non-stop-words.   
+
+
+
+<!-- ***   -->
+
+<!-- ## TECHNICAL SKILLS -->
+
+<!-- ```{r, eval = FALSE} -->
+<!-- # read csv of skills, add normally distributed weights, and plot wordcloud -->
+<!-- readr::read_csv("C:/Users/rpauloo/Desktop/skills.csv") %>% -->
+<!--   dplyr::mutate(n = rnorm(nrow(.), mean = 50, sd = 19)) %>% -->
+<!--   with(wordcloud::wordcloud(skill, n, colors = brewer.pal(8, "Dark2"))) -->
+<!-- ``` -->
+
+<!-- <center> -->
+<!-- ```{r, out.width="40%", echo = FALSE} -->
+<!-- knitr::include_graphics("wc.png") -->
+<!-- ``` -->
+<!-- </center> -->
