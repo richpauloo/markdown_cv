@@ -36,7 +36,7 @@ r2d3(data = c(), d3_version = 4, script = "voronoi.js", width = '100%', height =
 
 <!-- **OBJECTIVE**: Data Scientist Intern, PhD, 2019 - Mountain View, New York or Seattle -->
 
-**Hydrogeophysics PhD (March 2020)** and domain expert in the development of regional groundwater flow and contaminant transport models. Demonstrated ability to work in multidisciplinary teams on projects bridging physical simulation, climate science, and disadvantaged populations, with success in two data science competitions hosted by NASA and the West Big Data Hub. Possess 3+ years scripting non-routine, end-to-end quantitative analysis of spatial, tabular, natural language, and timeseries data in SQL, R, and Python. Creative thinker skilled in research design, from data gathering and processing, to statistics, machine learning, data visualization, communication, and drawing policy implications from research. Possess strong interpersonal, presentation, writing, and oratory skills honed through presentations to scientists, policymakers, and the general public. Able to grasp new concepts and ideas quickly. Motivated by learning new skills and making a difference in the world through scientifically-informed policy. 
+**Hydrogeophysics PhD (March 2020)** and domain expert in hydrogeology skilled in the development of regional groundwater flow and contaminant transport models. Demonstrated ability to work in multidisciplinary teams on projects bridging physical simulation, climate science, and disadvantaged populations, with success in two data science competitions hosted by NASA and the West Big Data Hub. Possess 3+ years scripting non-routine, end-to-end quantitative analysis of spatial, tabular, natural language, and timeseries data in SQL, R, and Python. Creative thinker skilled in research design, from data gathering and processing, to statistics, machine learning, data visualization, communication, and drawing policy implications from research. Possess strong interpersonal, presentation, writing, and oratory skills honed through presentations to scientists, policymakers, and the general public. Able to grasp new concepts and ideas quickly. Motivated by learning new skills and making a difference in the world through scientifically-informed policy. 
 
 ***
 
@@ -145,7 +145,9 @@ Dissertation: *"Linking Water Quality and Quantity Objectives: towards integrate
 
 ## PRESENTATIONS
 
-**2018. Pauloo, G.E. Fogg, R., Z. Guo, C.V. Henri** "Upscaling Regional, 3D, Non-Fickian Solute Transport with 2D Equivalent Models." American Geophysical Union. Final Paper Number H43I-2582. Washington, DC. 13 Dec. [[**VIEW POSTER**]](https://github.com/richpauloo/richpauloo.github.io/blob/master/presentations/agu_pauloo_2018.pdf)
+**2019. Pauloo, R., G.E. Fogg, R., Escriva-Bou, A., Fencl, A., Guillon, H.** "An Overview of Domestic Well Data in California's Central Valley: Opportunities for Informed Risk Assessment." California Environmental Protection Agency. Sacramento, CA. 18 Jan. [[**VIEW SLIDES**]](https://github.com/richpauloo/richpauloo.github.io/blob/master/presentations/2018_cal_epa.pdf)
+
+**2018. Pauloo, R., Fogg, G.E., Z. Guo, C.V. Henri** "Upscaling Regional, 3D, Non-Fickian Solute Transport with 2D Equivalent Models." American Geophysical Union. Final Paper Number H43I-2582. Washington, DC. 13 Dec. [[**VIEW POSTER**]](https://github.com/richpauloo/richpauloo.github.io/blob/master/presentations/agu_pauloo_2018.pdf)  
 
 **2018, Pauloo, R.** "An Interactive Mapping Interface to the California Online State Well Completion Report Database" UC Water Annual Meeting. Sacramento, CA. 25 Oct. [[**VIEW PRESENTATION**]](https://shiny.lawr.ucdavis.edu/shiny/oswcrd/)  
 
@@ -155,15 +157,15 @@ Dissertation: *"Linking Water Quality and Quantity Objectives: towards integrate
 
 **2018. Pauloo, R.** "Regional Groundwater Quantity and Quality Models" Stanford University. Palo Alto, CA. 24 May.  
 
-**2017. Pauloo, G.E. Fogg, R., Z. Guo, C.V. Henri** "Basin Scale Groundwater Quality Management Modeling: Methods to Upscale the Advection Dispersion Equation." American Geophysical Union. Final Paper Number H51G-1360. New Orleans, LA. 14 Dec. [[**VIEW POSTER**]](https://github.com/richpauloo/richpauloo.github.io/blob/master/presentations/agu_pauloo_2017_small.pdf)  
+**2017. Pauloo, R., Fogg, G.E., Z. Guo, C.V. Henri** "Basin Scale Groundwater Quality Management Modeling: Methods to Upscale the Advection Dispersion Equation." American Geophysical Union. Final Paper Number H51G-1360. New Orleans, LA. 14 Dec. [[**VIEW POSTER**]](https://github.com/richpauloo/richpauloo.github.io/blob/master/presentations/agu_pauloo_2017_small.pdf)  
 
-**2017. Pauloo, R., G.E. Fogg, E. Goharian, J.D. Herman** "How to Maximize Total Water Storage in California." UC Water Annual Retreat. Davis, CA. 21--22 Sept. 
+**2017. Pauloo, R., Fogg, G.e., E. Goharian, J.D. Herman** "How to Maximize Total Water Storage in California." UC Water Annual Retreat. Davis, CA. 21--22 Sept. 
 
-**2016. Pauloo, R., G.E. Fogg, Z. Guo** "Water Resource Vulnerability to Groundwater Salinization in Closed Basin Aquifers." American Geophysical Union. Final Paper Number H33F-1610. San Francisco, CA. 14 Dec. 
+**2016. Pauloo, R., Fogg, G.E., Z. Guo** "Water Resource Vulnerability to Groundwater Salinization in Closed Basin Aquifers." American Geophysical Union. Final Paper Number H33F-1610. San Francisco, CA. 14 Dec. 
 
-**2016. Pauloo, R., G.E. Fogg, Z. Guo** "Investigating Groundwater Sustainability and Water Quality Degradation in California's Tulare Basin using a Simple Mixing Model." Groundwater Resources Association Annual Meeting. Concord, CA. 28 Sept.
+**2016. Pauloo, R., Fogg, G.E., Z. Guo** "Investigating Groundwater Sustainability and Water Quality Degradation in California's Tulare Basin using a Simple Mixing Model." Groundwater Resources Association Annual Meeting. Concord, CA. 28 Sept.
 
-**2016. Pauloo, R., G.E. Fogg, Z. Guo** "Groundwater Salinization due to Hydraulic Closure in Tulare Basin over long time scales." Toward Sustainable Groundwater in Agriculture. Burlingame, CA. 28 June.
+**2016. PPauloo, R., Fogg, G.E., Z. Guo** "Groundwater Salinization due to Hydraulic Closure in Tulare Basin over long time scales." Toward Sustainable Groundwater in Agriculture. Burlingame, CA. 28 June.
 
 **2015. Pauloo, R., P. Marielle** "The Past Present and Future: Long-term climate trends and water management history in California." Water Scarcity in the West: Past Present and Future. Davis, CA. 12--13 April. [[**VIEW POSTER**]](https://github.com/richpauloo/richpauloo.github.io/blob/master/presentations/2017_04_18_weathering_change_poster.pdf)  
 
