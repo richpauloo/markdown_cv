@@ -6,26 +6,26 @@ output:
     highlight: tango
 ---
 
-```{r setup, include=FALSE}
+```{r setup, include=FALSE, eval=FALSE}
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 ```
 
 
 <center><h1><b>RICHARD A. PAULOO</b></h1></center>
 ***  
-<center>
-  <i class="fa fa-globe" aria-hidden="true"></i> [richpauloo.github.io](https://richpauloo.github.io/) |
-  <i class="fa fa-github" aria-hidden="true"></i> [richpauloo](https://github.com/richpauloo) |
-  <i class="fa fa-envelope" aria-hidden="true"></i> rpauloo@ucdavis.edu
-</center>
+<!-- <center> -->
+<!--   <i class="fa fa-globe" aria-hidden="true"></i> [richpauloo.github.io](https://richpauloo.github.io/) | -->
+<!--   <i class="fa fa-github" aria-hidden="true"></i> [richpauloo](https://github.com/richpauloo) | -->
+<!--   <i class="fa fa-envelope" aria-hidden="true"></i> rpauloo@ucdavis.edu -->
+<!-- </center> -->
 
 <!-- font awesome hack to make doc < 2MB in size -->
-<!-- <center> -->
-<!--   <img src = "web.png" height = 15, width = 15> [richpauloo.github.io](https://richpauloo.github.io/) | -->
-<!--   <img src = "git.png" height = 15, width = 15> [richpauloo](https://github.com/richpauloo) | -->
-<!--   <img src = "mail.png" height = 15, width = 15> rpauloo@ucdavis.edu | -->
-<!--   <img src = "home.png" height = 15, width = 15> 740 Miller Drive � Davis, CA 95616 -->
-<!-- </center> -->
+<center>
+  <img src = "web.png" height = 15, width = 15> [richpauloo.github.io](https://richpauloo.github.io/) |
+  <img src = "git.png" height = 15, width = 15> [richpauloo](https://github.com/richpauloo) |
+  <img src = "mail.png" height = 15, width = 15> rpauloo@ucdavis.edu |
+  <img src = "home.png" height = 15, width = 15> 740 Miller Drive � Davis, CA 95616
+</center>
 
 ***  
 
@@ -36,7 +36,7 @@ r2d3(data = c(), d3_version = 4, script = "voronoi.js", width = '100%', height =
 
 <!-- **OBJECTIVE**: Data Scientist Intern, PhD, 2019 - Mountain View, New York or Seattle -->
 
-**Hydrogeophysics PhD (March 2020)** and domain expert in hydrogeology skilled in the development of regional groundwater flow and contaminant transport models. Demonstrated ability to work in multidisciplinary teams on projects bridging physical simulation, climate science, and disadvantaged populations, with success in two data science competitions hosted by NASA and the West Big Data Hub. Possess 3+ years scripting non-routine, end-to-end quantitative analysis of spatial, tabular, natural language, and timeseries data in SQL, R, and Python. Creative thinker skilled in research design, from data gathering and processing, to statistics, machine learning, data visualization, communication, and drawing policy implications from research. Possess strong interpersonal, presentation, writing, and oratory skills honed through presentations to scientists, policymakers, and the general public. Able to grasp new concepts and ideas quickly. Motivated by learning new skills and making a difference in the world through scientifically-informed policy. 
+**Hydrogeophysics PhD (March 2020)** and domain expert in hydrogeology skilled in the development of physically-based, 3D regional groundwater flow and contaminant transport models. Demonstrated ability to work in multidisciplinary teams on projects bridging physical simulation, climate science, and disadvantaged populations, with success in two data science competitions hosted by NASA and the West Big Data Hub. Possess 3+ years scripting non-routine, end-to-end quantitative analysis of spatial, tabular, natural language, and timeseries data in SQL, R, and Python. Creative thinker skilled in research design, from data gathering and processing, to statistics, machine learning, data visualization, communication, and drawing policy implications from research. Possess strong interpersonal, presentation, writing, and oratory skills honed through presentations to scientists, policymakers, and the general public. Able to grasp new concepts and ideas quickly. Motivated by learning new skills and using science to make the world a safer, cleaner, more equitable place. 
 
 ***
 
@@ -62,9 +62,9 @@ Dissertation: *"Linking Water Quality and Quantity Objectives: towards integrate
 <br>
 
 <ul> 
-  <li>As a **Researcher** for the [U.S./China Clean Energy Research Center](https://cerc-wet.berkeley.edu/), to address the long-term sustainability of fresh groundwater resources in the US and China, I developed novel, computationally efficient, regional-scale physical simulation models to assess basin-scale groundwater quality degradation due to non-point source pollution. These models are the first of their kind, allowing efficient simulation of basin-scale 3D contaminant transport processes using 2D equivalent models. I used R to prepare and automate simulations in MODFLOW, and ParaView and LaTeX for visualization and reporting.</li>  
+  <li>As a **Researcher** for the [U.S./China Clean Energy Research Center](https://cerc-wet.berkeley.edu/), to address the long-term sustainability of fresh groundwater resources in the US and China, I developed novel, computationally efficient, regional-scale physical simulation models to assess basin-scale groundwater quality degradation due to non-point source pollution. These models are the first of their kind, allowing efficient simulation of basin-scale 3D contaminant transport processes using 2D equivalent models. I used R to prepare and automate simulations in MODFLOW, and ParaView for visualization and LaTeX for reporting.</li>  
   <li>As a **National Science Foundation Fellow** in the Climate Change, Water, and Society interdisciplinary graduate education and research traineeship, I aimed to quantify the impact of drought on vulnerable populations in California. I led a team consisting of a hydrologist (myself), economist, engineer, statistician, and social scientist to develop spatial, statistical, and machine learning models to predict domestic well failure in California during the 2012-2016 drought and in future drought scenarios. We found that drought disproportionally hurt vulnerable, low-income communities, and developed policy recommendations for meeting these challenges. We won the statewide 2018 [California Water data Challenge](http://waterchallenge.data.ca.gov/) for our work, [which can be viewed here](https://richpauloo.github.io/flexdash.html). I also collaborated with climate scientists, social scientists, and economists to co-organize and convene [a conference](https://watershed.ucdavis.edu/news/2016/03/09/april-4-5-weathering-change-impact-climate-change-and-sgma-ca-water-conference) on critical issues at food-water-energy-nexus.</li>
-  <li>As a **Data Engineer and Developer** for UC Water, I tackled the need for free and open-source groundwater monitoring tools, and the lack of access to high-quality lithologic data. I completed two open-source, web-based tools to meet these needs: (1) a [groundwater monitoring web-dashboard](http://ucwater.org/gw_obs/) built with R, SQL, Shiny, and Shiny Server that includes: automated end-to-end extraction and analysis of telemetry-based data, automated report generation, and interactive data visualization. (2) a [spatial database query tool](http://ucwater.org/oswcr /) that allows users to query a cleaned version of the California well completion report database using a shapefile defining their area of interest. My data has since been used and cited by consultants, academic researchers, and non-profit think tanks.</li>  
+  <li>As a **Data Engineer and Developer** for UC Water, I tackled the need for free and open-source groundwater monitoring tools, and the lack of access to high-quality lithologic data. I completed two open-source, web-based tools to meet these needs: (1) a [groundwater monitoring web-dashboard](http://ucwater.org/gw_obs/) built with R, SQL, Shiny, and Shiny Server that includes: automated end-to-end extraction and analysis of telemetry-based data, automated report generation, and interactive data visualization. (2) a [spatial database query tool](http://ucwater.org/oswcr/) that allows users to query a cleaned version of the California well completion report database using a shapefile defining their area of interest. My data has since been used and cited by consultants, academic researchers, and non-profit think tanks.</li>  
   <li>As a **Data Science Consultant** for the [UC Davis Data Science Initiative](http://dsi.ucdavis.edu/), to understand CIG software package interactions in academic journals, I used R for text extraction, natural language processing, and network analysis of ~500 journal articles, showing how usage has changed over time and the relationships between packages.</li>  
   <li>I developed and maintain the [Hydrologic Sciences Graduate Group webpage](https://hsgg.ucdavis.edu/).</li>  
 </ul>
@@ -176,11 +176,11 @@ Dissertation: *"Linking Water Quality and Quantity Objectives: towards integrate
 
 <!-- ### **Journal Articles** -->
 
-**Pauloo, R.**, A. Escriva-Bou, A. Fencl, H. Guillon 2019. "Predicting Domestic Well Failure and Drought Vulnerability in California's Central Valley." *Regional Environmental Change* *(not yet submitted)*
+**Pauloo, R.**, A. Escriva-Bou, A. Fencl, H. Guillon 2019. "Predicting Domestic Well Failure and Drought Vulnerability in California's Central Valley." *Regional Environmental Change* *(in preparation)*
 
-**Pauloo, R.**, C. Henri, Z. Guo, G.E. Fogg 2019. "Upscaling Regional, 3D, Non-Fickian Solute Transport with 2D Equivalent Models." *Water Resources Research* *(not yet submitted)*
+**Pauloo, R.**, C. Henri, Z. Guo, G.E. Fogg 2019. "Upscaling Regional, 3D, Non-Fickian Solute Transport with 2D Equivalent Models." *Water Resources Research* *(in preparation)*
 
-**Pauloo, R.**, Z. Guo, G.E. Fogg 2019. "Groundwater Salinization Resulting from Open-to-Closed Basin Conversion in an Agricultural Basin." *Advances in Water Resources* *(not yet submitted)*
+**Pauloo, R.**, Z. Guo, G.E. Fogg 2019. "Groundwater Salinization Resulting from Open-to-Closed Basin Conversion in an Agricultural Basin." *Advances in Water Resources* *(in preparation)*
 
 *** 
 
@@ -197,18 +197,18 @@ Dissertation: *"Linking Water Quality and Quantity Objectives: towards integrate
 <!-- <h5>Made with <i class="fa fa-heart" aria-hidden="true"></i> & <i class="fa fa-coffee" aria-hidden="true"></i> by Rich A. Pauloo</h5> -->
 <!-- </center> -->
 
-<!-- <center> -->
-<!--   <img src = "web.png" height = 15, width = 15> [richpauloo.github.io](https://richpauloo.github.io/) | -->
-<!--   <img src = "git.png" height = 15, width = 15> [richpauloo](https://github.com/richpauloo) | -->
-<!--   <img src = "mail.png" height = 15, width = 15> rpauloo@ucdavis.edu | -->
-<!--   <img src = "home.png" height = 15, width = 15> 740 Miller Drive � Davis, CA 95616 -->
-<!-- </center> -->
-
 <center>
-  <i class="fa fa-globe" aria-hidden="true"></i> [richpauloo.github.io](https://richpauloo.github.io/) |
-  <i class="fa fa-github" aria-hidden="true"></i> [richpauloo](https://github.com/richpauloo) |
-  <i class="fa fa-envelope" aria-hidden="true"></i> rpauloo@ucdavis.edu
+  <img src = "web.png" height = 15, width = 15> [richpauloo.github.io](https://richpauloo.github.io/) |
+  <img src = "git.png" height = 15, width = 15> [richpauloo](https://github.com/richpauloo) |
+  <img src = "mail.png" height = 15, width = 15> rpauloo@ucdavis.edu |
+  <img src = "home.png" height = 15, width = 15> 740 Miller Drive � Davis, CA 95616
 </center>
+
+<!-- <center> -->
+<!--   <i class="fa fa-globe" aria-hidden="true"></i> [richpauloo.github.io](https://richpauloo.github.io/) | -->
+<!--   <i class="fa fa-github" aria-hidden="true"></i> [richpauloo](https://github.com/richpauloo) | -->
+<!--   <i class="fa fa-envelope" aria-hidden="true"></i> rpauloo@ucdavis.edu -->
+<!-- </center> -->
 
 <br>
 <br>
