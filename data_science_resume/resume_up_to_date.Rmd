@@ -11,7 +11,7 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 ```
 
 
-<center><h1><b>RICHARD A. PAULOO</b></h1></center>
+<center><h1><b>RICH A. PAULOO</b></h1></center>
 ***  
 <!-- <center> -->
 <!--   <i class="fa fa-globe" aria-hidden="true"></i> [richpauloo.github.io](https://richpauloo.github.io/) | -->
@@ -23,8 +23,8 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 <center>
   <img src = "web.png" height = 15, width = 15> [richpauloo.github.io](https://richpauloo.github.io/) |
   <img src = "git.png" height = 15, width = 15> [richpauloo](https://github.com/richpauloo) |
-  <img src = "mail.png" height = 15, width = 15> rpauloo@ucdavis.edu |
-  <img src = "home.png" height = 15, width = 15> 740 Miller Drive. Davis, CA 95616
+  <img src = "mail.png" height = 15, width = 15> rpauloo@ucdavis.edu 
+  <!-- <img src = "home.png" height = 15, width = 15> 740 Miller Drive. Davis, CA 95616 -->
 </center>
 
 ***  
@@ -199,8 +199,7 @@ Dissertation: *"Linking Water Quality and Quantity Objectives: towards integrate
 <center>
   <img src = "web.png" height = 15, width = 15> [richpauloo.github.io](https://richpauloo.github.io/) |
   <img src = "git.png" height = 15, width = 15> [richpauloo](https://github.com/richpauloo) |
-  <img src = "mail.png" height = 15, width = 15> rpauloo@ucdavis.edu |
-  <img src = "home.png" height = 15, width = 15> 740 Miller Drive. Davis, CA 95616
+  <img src = "mail.png" height = 15, width = 15> rpauloo@ucdavis.edu 
 </center>
 
 <!-- <center> -->
