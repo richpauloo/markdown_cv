@@ -144,6 +144,8 @@ Dissertation: *"Linking Water Quality and Quantity Objectives: towards integrate
 
 ## PRESENTATIONS
 
+**2019. Pauloo, R.** "Show me the data." California Water Data Summit. Davis, CA. 22 Aug. [[**VIEW SLIDES**]](https://github.com/richpauloo/richpauloo.github.io/blob/master/presentations/2019_08_24_pauloo_cawds_short.pdf)  
+
 **2019. Pauloo, R., G.E. Fogg, R., Escriva-Bou, A., Fencl, A., Guillon, H.** "An Overview of Domestic Well Data in California's Central Valley: Opportunities for Informed Risk Assessment." California Environmental Protection Agency. Sacramento, CA. 18 Jan. [[**VIEW SLIDES**]](https://github.com/richpauloo/richpauloo.github.io/blob/master/presentations/2018_cal_epa.pdf)
 
 **2018. Pauloo, R., Fogg, G.E., Z. Guo, C.V. Henri** "Upscaling Regional, 3D, Non-Fickian Solute Transport with 2D Equivalent Models." American Geophysical Union. Final Paper Number H43I-2582. Washington, DC. 13 Dec. [[**VIEW POSTER**]](https://github.com/richpauloo/richpauloo.github.io/blob/master/presentations/agu_pauloo_2018.pdf)  
