@@ -12,7 +12,7 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 
 
 <center><h1><b>RICH A. PAULOO</b></h1></center>
-***  
+ 
 <!-- <center> -->
 <!--   <i class="fa fa-globe" aria-hidden="true"></i> [richpauloo.github.io](https://richpauloo.github.io/) | -->
 <!--   <i class="fa fa-github" aria-hidden="true"></i> [richpauloo](https://github.com/richpauloo) | -->
@@ -27,22 +27,30 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
   <!-- <img src = "home.png" height = 15, width = 15> 740 Miller Drive. Davis, CA 95616 -->
 </center>
 
-***  
+<br>
 
-```{r, echo = FALSE, warning=FALSE, error=FALSE, message=FALSE}
-library(r2d3)
-r2d3(data = c(), d3_version = 4, script = "voronoi.js", width = '100%', height = 100)
-```
+<!-- ```{r, echo = FALSE, warning=FALSE, error=FALSE, message=FALSE} -->
+<!-- library(r2d3) -->
+<!-- r2d3(data = c(), d3_version = 4, script = "voronoi.js", width = '100%', height = 100) -->
+<!-- ``` -->
+
+
+<iframe src="https://richpauloo.github.io/waves/" width = "100%" height = "250" frameborder = "0" scrolling = "no"></iframe> 
+
+
+
+
+<br>
 
 <!-- **OBJECTIVE**: Data Scientist Intern, PhD, 2019 - Mountain View, New York or Seattle -->
 
-**Hydrogeology PhD (March 2020)** and domain expert in hydrologic sciences skilled in the development of physically-based, 3D regional groundwater flow and contaminant transport models. Demonstrated ability to work in multidisciplinary teams on projects bridging physical simulation, climate science, and disadvantaged populations, with success in two data science competitions hosted by NASA and the West Big Data Hub. Possess 3+ years scripting non-routine, end-to-end quantitative analysis of spatial, tabular, natural language, and timeseries data in SQL, R, and Python. Creative thinker skilled in research design, from data gathering and processing, to statistics, machine learning, data visualization, communication, and drawing policy implications from research. Possess strong interpersonal, presentation, writing, and oratory skills honed through presentations to scientists, policymakers, and the general public. Able to grasp new concepts and ideas quickly. Motivated by learning new skills and using science to make the world a safer, cleaner, more equitable place. 
+**Hydrogeology PhD (March 2020)** skilled in the development of physically-based, 3D regional groundwater flow and contaminant transport models. Demonstrated ability to work in multidisciplinary teams on projects bridging physical simulation, climate science, and disadvantaged populations. Possess 3+ years scripting non-routine, end-to-end quantitative analysis of spatial, tabular, natural language, and timeseries data in SQL, R, and Python. Creative thinker skilled in research design, from data gathering and processing, to statistics, machine learning, data visualization, communication, and drawing policy implications from research. Possess strong interpersonal, presentation, writing, and oratory skills honed through presentations to scientists, policymakers, and the general public. Able to grasp new concepts and ideas quickly. Motivated by learning new skills and using science to make the world a safer, cleaner, more equitable place. 
 
 ***
 
 ## EDUCATION
 
-**University of California, Davis, *Ph.D. in Hydrogeophysics.*** \hfill (March 2020)  
+**University of California, Davis, *Ph.D. in Hydrogeology.*** \hfill (expected March 2020)  
 <ul> 
 Dissertation: *"Linking Water Quality and Quantity Objectives: towards integrated, sustainable, basin-scale groundwater management"* (Advised by Dr. Graham E. Fogg)
 </ul>
@@ -123,24 +131,21 @@ Dissertation: *"Linking Water Quality and Quantity Objectives: towards integrate
 
 ***
 
-## LANGUAGES
 
-* Spanish (conversational)  
-* Portuguese (elementary)  
+## PUBLICATIONS
+
+<!-- ### **Journal Articles** -->
+
+Hwang, L. & **Pauloo, R.** & Carlen, J. (2019). "Assessing Impact of Outreach through Software Citation for Community Software in Geodynamics." *Computing in Science & Engineering*. PP. 1-1. 10.1109/MCSE.2019.2940221. 
+
+**Pauloo, R.**, A. Escriva-Bou, A. Fencl, H. Guillon 2019. "Domestic Well Vulnerability to Drought Duration and Unsustainable Groundwater Management in California's Central Valley." *(in preparation)*
+
+**Pauloo, R.**, C. Henri, Z. Guo, G.E. Fogg 2019. "Upscaling Regional, 3D, Non-Fickian Solute Transport with 2D Equivalent Models." *(in preparation)*
+
+**Pauloo, R.**, Z. Guo, G.E. Fogg 2019. "Groundwater Development Induced Basin Closure: An Unrecognized Threat to Water Quality Sustainability." *(in preparation)*
 
 *** 
 
-
-## VOLUNTEERING, COMMUNICATION, & OUTREACH
-
-* Reviewer for [Water Resources Research](https://agupubs.onlinelibrary.wiley.com/journal/19447973)  
-* Personal Research and Data Science Blog (**~ 1.5k monthly users**) [[**VIEW BLOG**]](https://richpauloo.github.io/). Example topics include:  
-    + [Chi-squared tests in R](https://richpauloo.github.io/2018-02-03-Tidy-Chi-Squared-stats-in-infer/)  
-    + [predicting fatal landslides worldwide with machine learning](https://richpauloo.github.io/landslides.html)  
-    + [data science software installation guides](https://richpauloo.github.io/2018-05-16-Installing-the-R-kernel-in-Jupyter-Lab/)  
-* [*Eastern San Joaquin Valley and other CA drinking water supplies at risk in the next drought*](https://californiawaterblog.com/2018/11/12/domestic-well-vulnerability-to-drought-in-californias-central-valley/), California Water Blog  
-
-***
 
 ## PRESENTATIONS
 
@@ -173,19 +178,38 @@ Dissertation: *"Linking Water Quality and Quantity Objectives: towards integrate
 
 *** 
 
-## PUBLICATIONS
+## LANGUAGES
 
-<!-- ### **Journal Articles** -->
-
-**Pauloo, R.**, A. Escriva-Bou, A. Fencl, H. Guillon 2019. "Domestic Well Vulnerability to Drought Duration and Unsustainable Groundwater Management in California's Central Valley." *PNAS* *(in preparation)*
-
-**Pauloo, R.**, C. Henri, Z. Guo, G.E. Fogg 2019. "Upscaling Regional, 3D, Non-Fickian Solute Transport with 2D Equivalent Models." *Water Resources Research* *(in preparation)*
-
-**Pauloo, R.**, Z. Guo, G.E. Fogg 2019. "Groundwater Development Induced Basin Closure: An Unrecognized Threat to Water Quality Sustainability." *Advances in Water Resources* *(in preparation)*
+* Spanish (conversational)  
+* Portuguese (elementary)  
 
 *** 
 
 
+## VOLUNTEERING, COMMUNICATION, & OUTREACH
+
+* Reviewer for [Water Resources Research](https://agupubs.onlinelibrary.wiley.com/journal/19447973)  
+* Personal Research and Data Science Blog (**~ 1.5k monthly users**) [[**VIEW BLOG**]](https://richpauloo.github.io/). Example topics include:  
+    + [Chi-squared tests in R](https://richpauloo.github.io/2018-02-03-Tidy-Chi-Squared-stats-in-infer/)  
+    + [predicting fatal landslides worldwide with machine learning](https://richpauloo.github.io/landslides.html)  
+    + [data science software installation guides](https://richpauloo.github.io/2018-05-16-Installing-the-R-kernel-in-Jupyter-Lab/)  
+* [*Eastern San Joaquin Valley and other CA drinking water supplies at risk in the next drought*](https://californiawaterblog.com/2018/11/12/domestic-well-vulnerability-to-drought-in-californias-central-valley/), California Water Blog  
+
+***
+
+## PROJECTS  
+
+<br> 
+
+#### A Water Quality Portal for California
+
+[View the project here.](https://caccr.github.io)
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeBvBx8WQ34" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+***
 
  
 <!-- font awesome hack to make doc < 2MB in size -->
