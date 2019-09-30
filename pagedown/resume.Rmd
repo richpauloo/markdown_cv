@@ -1,0 +1,338 @@
+---
+title: "Rich Pauloo's resume"
+author: Rich A. Pauloo
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: ['styles.css', 'resume']
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+---
+
+
+
+
+Aside
+================================================================================
+
+
+![Rich Pauloo](https://avatars1.githubusercontent.com/u/10336683?s=460&v=4){width=80%}
+<!-- <iframe src="https://richpauloo.github.io/waves/" width = "100%" height = "100" frameborder = "0" scrolling = "no"></iframe> -->
+
+
+Contact {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> richpauloo@gmail.com
+- <i class="fa fa-twitter"></i> RichPauloo
+- <i class="fa fa-github"></i> github.com/richpauloo
+- <i class="fa fa-link"></i> [richpauloo.github.io](https://richpauloo.github.io/)
+- <i class="fa fa-phone"></i> (415) 275-4981
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+4 years of experience developing groundwater flow and contaminant transport models.
+
+Highly experienced in
+
+
+    - R
+    - GIS
+    
+    
+Experience with
+
+
+    - Python
+    - SQL
+    - Bash
+    - HTML/CSS/Javascript
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Made w/ [**pagedown**](https://github.com/rstudio/pagedown).
+
+Source code: [github.com/richpauloo/cv](https://github.com/richpauloo/cv)
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Rich Pauloo {#title}
+--------------------------------------------------------------------------------
+
+I have developed [groundwater flow and contaminant transport models](https://richpauloo.github.io/research/), made [pipelines that process and display environmental data from remote sensor networks in near-real time](http://ucwater.org/gw_obs), created [interactive dashboards that make sense of massive datasets](https://richpauloo.github.io/2019-09-16-A-water-quality-portal-for-California/), and built [packages for R](https://github.com/richpauloo/textme).  
+
+Currently searching for positions in government and industry where I can work on challenging, data-intensive issues facing California's water future.  
+
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### University of California Berkeley
+
+B.S., Integrative Biology
+
+Berkeley, CA
+
+2006 - 2011
+
+Conflict Resolution minor
+
+### University of California Davis
+
+Ph.D. Candidate, Hydrogeology
+
+Davis, CA
+
+2015 - 2020
+
+- Dissertation on developing regional scale groundwater quality management models. 
+- NSF Fellow
+- Elected member of Graduate Student Assembly
+- Affiliate of the UC Davis Data Lab
+
+
+Selected Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Graduate Student Researcher
+
+Fogg Laboratory 
+
+University of California Davis
+
+2015 - 2020
+
+- Developed methods to efficiently upscale contaminant transport in heterogeneous porous media.  
+- Built tools to process and visualize real-time sensor data.  
+
+
+
+### Data Science Researcher
+
+Computational Institute for Geodynamics
+
+University of California Davis
+
+2019
+
+- NLP, text mining, and network analysis on a corpus of 600 unique PDFs. Developed [a dashboard to understand the corpous.](https://richpauloo.shinyapps.io/cig_nlp/)
+- [Results are published here.](https://ieeexplore.ieee.org/document/8827910)
+
+
+Selected Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Site Manager & Environmental Science Educator
+
+NatureBridge 
+
+Yosemite National Park & the Marin Headlands
+
+2012 - 2015
+
+- Coordinated with Operations to run a 200-student campus with 60 employees.
+- Served as primary liaison between the organization and clients.   
+- Taught environmental science programs and designed curriculum.
+
+
+### Expedition Leader
+
+National Geographic & Adventures Cross Country
+
+Thailand
+
+2015 - 2016
+
+- Coordinated all aspects of multi-week international travel.
+- Facilitated teambuilding and group dynamics.
+
+
+### Data Engineer
+
+UC Water
+
+University of California Davis
+
+2018 - 2020
+
+- Constructed a data processing pipeline and [web dashboard](http://ucwater.org/gw_obs) to stream real-time groundwater data via a wireless sensor network.
+
+
+
+
+Grants and Awards {data-icon=award}
+--------------------------------------------------------------------------------
+
+### NSF-IGERT in Climate Change, Water, and Society
+
+$111,000 
+
+N/A
+
+2015
+
+
+### NSF-GRFP Honorable Mention
+
+N/A 
+
+N/A
+
+2016
+
+
+### [2018 California Water Data Challenge](https://richpauloo.github.io/flexdash.html) (Statewide Competition)
+
+$1,500 
+
+N/A
+
+2018
+
+
+### [NASA Data Visualization Competition](https://github.com/richpauloo/richpauloo.github.io/blob/master/presentations/pauloo_hyperwall_no_lines.pdf) (National Competition)
+
+$1,400 
+
+N/A
+
+2018
+
+
+### Big Data Hub Early Career Data Science Researcher Award
+
+$1,000 
+
+N/A
+
+2018
+
+
+
+
+
+Selected Publications, Posters, and Talks {data-icon=file}
+--------------------------------------------------------------------------------
+
+::: aside
+I regularly blog about data science, visualization, machine learning, and water issues in California on [my blog](https://richpauloo.github.io/)
+:::
+
+
+
+### [Assessing Impact of Outreach through Software Citation for Community Software in Geodynamics.](https://www.computer.org/csdl/magazine/cs/5555/01/08827910/1ddbgHkmqJ2)
+
+Computing in Science & Engineering. PP. 1-1. 10.1109/MCSE.2019.2940221. 
+
+N/A
+
+2019
+
+Hwang, L. & **Pauloo, R.** & Carlen, J. 
+
+
+### Domestic Well Vulnerability to Drought Duration and Unsustainable Groundwater Management in California's Central Valley. _(submitted)_  
+
+N/A
+
+N/A
+
+2019
+
+**Pauloo, R.** & Dahlke, H. & Escriva-Bou, A. & Fencl, A. &H. Guillon & Fogg, G.E.  
+
+
+### Groundwater Development Induced Basin Closure: An Unrecognized Threat to Water Quality Sustainability. _(in preparation)_  
+
+N/A
+
+N/A
+
+2019
+
+
+**Pauloo, R.** & Guo, Z. & Fogg G.E.
+
+
+### [Show me the data.](https://github.com/richpauloo/richpauloo.github.io/blob/master/presentations/2019_08_24_pauloo_cawds_short.pdf)  
+
+California Water Data Summit. Davis, CA  
+
+N/A
+
+2019
+
+
+**Pauloo, R.**   
+
+
+### [An Overview of Domestic Well Data in California's Central Valley: Opportunities for Informed Risk Assessment.](https://github.com/richpauloo/richpauloo.github.io/blob/master/presentations/2018_cal_epa.pdf)
+
+California Environmental Protection Agency. Sacramento, CA
+
+N/A
+
+2019
+
+**Pauloo, R.** & Fogg, G.E. & Escriva-Bou, A. & Fencl, A. & Guillon, H.  
+
+
+### [Upscaling Regional, 3D, Non-Fickian Solute Transport with 2D Equivalent Models.](https://github.com/richpauloo/richpauloo.github.io/blob/master/presentations/agu_pauloo_2018.pdf)  
+
+American Geophysical Union. #H43I-2582. Washington, DC
+
+N/A
+
+2018
+
+**Pauloo, R.** & Fogg, G.E. & Guo, Z. & Henri, C.V.  
+
+
+### [An Interactive Mapping Interface to the California Online State Well Completion Report Database](https://shiny.lawr.ucdavis.edu/shiny/oswcrd/)  
+
+UC Water Annual Meeting. Sacramento, CA
+
+N/A
+
+2018
+
+**Pauloo, R.**
+
+
+### [Basin Scale Groundwater Quality Management Modeling: Methods to Upscale the Advection Dispersion Equation.](https://github.com/richpauloo/richpauloo.github.io/blob/master/presentations/agu_pauloo_2017_small.pdf)
+
+American Geophysical Union. #H51G-1360. New Orleans, LA
+
+N/A 
+
+2017
+
+**Pauloo, R.** & Fogg, G.E. & Guo, Z. & Henri, C.V.
+
+
+### [The Past Present and Future: Long-term climate trends and water management history in California.](https://github.com/richpauloo/richpauloo.github.io/blob/master/presentations/2017_04_18_weathering_change_poster.pdf)
+
+Water Scarcity in the West: Past Present and Future. Davis, CA
+
+N/A
+
+2015
+
+**Pauloo, R.** & Pinheiro, M.
+
+
+
+
+
+
+
